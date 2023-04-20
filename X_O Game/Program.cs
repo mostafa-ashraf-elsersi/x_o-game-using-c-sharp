@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            new X_O_Game();
+            new X_O_Game(); // Running the game
         }
     }
 }
